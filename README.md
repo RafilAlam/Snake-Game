@@ -1,5 +1,5 @@
 # 🐍 Snake Game  
-🎮 **Classic Snake with a Handheld Console Twist**  
+🎮 **Classic Snake with a Handheld Console Feel**  
 > A nostalgic, feature-packed **Snake game** built entirely in **HTML, CSS, and JavaScript**. The game features a **sleek, handheld-console-inspired UI**, offering smooth gameplay and interesting visuals. A modern spin on a timeless classic!
 
 ---
