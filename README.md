@@ -4,6 +4,12 @@
 
 ---
 
+## 🎥 Demo  
+
+https://github.com/user-attachments/assets/ef6d6ba6-40f6-4552-a76f-52d814dd6844
+
+---
+
 ## 🎮 Features
 - Classic Snake gameplay with growing length as you eat food  
 - Handheld console-inspired design for a retro yet modern feel  
